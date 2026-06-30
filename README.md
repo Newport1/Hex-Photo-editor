@@ -1,6 +1,6 @@
-# PhotoHex Lab PySide6 MVP
+# PhotoHex Lab
 
-A local-first **photo-focused hex editor for JPEG experimentation**.
+A **photo-focused hex editor for JPEG experimentation**.
 
 ```text
 open JPEG -> inspect segment map -> edit bytes/ranges -> decode preview -> log observations
